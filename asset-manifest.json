@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_films_API_Redux_Toolkit_Thunk/static/css/main.272a60a7.css",
+    "main.js": "/React_films_API_Redux_Toolkit_Thunk/static/js/main.2bb443f4.js",
+    "static/js/631.8dd88376.chunk.js": "/React_films_API_Redux_Toolkit_Thunk/static/js/631.8dd88376.chunk.js",
+    "static/js/173.30ddfe84.chunk.js": "/React_films_API_Redux_Toolkit_Thunk/static/js/173.30ddfe84.chunk.js",
+    "static/js/956.6ce081bb.chunk.js": "/React_films_API_Redux_Toolkit_Thunk/static/js/956.6ce081bb.chunk.js",
+    "static/js/787.a874c0b1.chunk.js": "/React_films_API_Redux_Toolkit_Thunk/static/js/787.a874c0b1.chunk.js",
+    "index.html": "/React_films_API_Redux_Toolkit_Thunk/index.html",
+    "main.272a60a7.css.map": "/React_films_API_Redux_Toolkit_Thunk/static/css/main.272a60a7.css.map",
+    "main.2bb443f4.js.map": "/React_films_API_Redux_Toolkit_Thunk/static/js/main.2bb443f4.js.map",
+    "631.8dd88376.chunk.js.map": "/React_films_API_Redux_Toolkit_Thunk/static/js/631.8dd88376.chunk.js.map",
+    "173.30ddfe84.chunk.js.map": "/React_films_API_Redux_Toolkit_Thunk/static/js/173.30ddfe84.chunk.js.map",
+    "956.6ce081bb.chunk.js.map": "/React_films_API_Redux_Toolkit_Thunk/static/js/956.6ce081bb.chunk.js.map",
+    "787.a874c0b1.chunk.js.map": "/React_films_API_Redux_Toolkit_Thunk/static/js/787.a874c0b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.272a60a7.css",
+    "static/js/main.2bb443f4.js"
+  ]
+}
